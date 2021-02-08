@@ -80,16 +80,15 @@ body
 	padding: 10px 0;
 	background: #fafafa;
 	width: 32%;
-	margin-left: 345px;
 	padding-right: 419px;
 	padding-left: 6px;
 	font-weight: 600;
 	color: #615e5e;
 	border-radius: 0 0 5px 5px;
 	box-shadow: 0px 10px 12px #80808024;
-	
+	position: relative;
+	left: 343px;
 }
-
 .pStyle {
 	font-size: 14px;
 	width: 38%;
